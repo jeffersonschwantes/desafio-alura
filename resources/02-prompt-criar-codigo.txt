@@ -1,0 +1,2 @@
+Crie todo o código python necessário para implementar a idéia 4, levando em consideração que o usuário deve poder definir o número de perguntas.
+Logo após, me ajude a gerar um README.md para este projeto explicando qual o objetivo e para que ele serve.
