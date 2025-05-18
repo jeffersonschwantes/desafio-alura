@@ -1,0 +1,57 @@
+Me ajude com 5 idéias para participar do desafio de criar um projeto em python utilizando as bibliotecas do Agent Development Kit (ADK) do Google.
+Durante as aulas trabalhamos na criação de chatbots e também com a criação de agentes de AI. Vou te fornecer 2 exemplos de código python que trabalhamos durante as aulas.
+
+Considere as regras abaixo:
+
+Premiação Melhores Projetos
+As pessoas inscritas interessadas em participar da premiação, poderão enviar os seus projetos para uma banca avaliadora e concorrer a prêmios.
+
+📢 FAQ da Premiação Imersão IA 2025
+1. Quem pode participar da Premiação Imersão IA 2025?
+Podem participar da premiação estudantes inscritos na Imersão IA 2025, com idade mínima de 18 anos. Funcionários da Alura, FIAP, PM3 e Google não podem participar.
+
+2. Qual é o processo para submissão do projeto?
+Para participar, os estudantes devem criar um projeto relacionado ao conteúdo das aulas 04 e/ou 05 da Imersão IA 2025 e enviá-lo pelo formulário disponibilizado aqui e na plataforma da Alura no dia 17/05 até às 23h59. O projeto deve ser hospedado no GitHub.
+
+3. Como os projetos serão avaliados e selecionados?
+Uma banca da Alura irá avaliar os 30 projetos mais votados para escolher os 10 primeiros colocados com base nos seguintes critérios:
+
+Utilidade do projeto
+Criatividade
+Eficácia
+Apresentação
+
+4. Posso usar qualquer linguagem de programação para o projeto?
+Sim, você pode usar qualquer linguagem, desde que o projeto utilize a API Key.
+
+5. Posso usar uma ferramenta nocode para criar o projeto?
+Ferramentas nocode que não usam a API Key não são permitidas. Se a ferramenta nocode usar a API Key, então ela é aceitável.
+
+6. Quais são os prêmios para os vencedores?
+Os prêmios variam de acordo com a colocação:
+
+1º lugar: Bolsa FIAP* + 01 Convite para o IA Conference 2025, a ser realizada em 13/08/2025, na cidade de São Paulo + Assinatura 01 ano Alura Ultra + participação no Hipsters + Kit Alura.
+2º a 3º lugar: 01 Convite para o IA Conference 2025, a ser realizada em 13/08/2025, na cidade de São Paulo + Assinatura 01 ano Alura Ultra + participação no Hipsters + Kit Alura.
+4º a 10º lugar: Assinatura 01 ano Alura Ultra + Kit alura
+
+Os prêmios não serão enviados e/ou válidos para outro país, valendo a premiação somente para o Brasil.
+Os prêmios não poderão ser divididos com outras pessoas para além do estudante ganhador e não serão revertidos em dinheiro.
+
+7. Quando serão anunciados os vencedores?
+Os vencedores serão anunciados durante a live de encerramento no YouTube, no dia 19/05. Além disso, os resultados serão divulgados por e-mail para os vencedores e no Guia de Mergulho. As empresas entrarão em contato com os vencedores a partir do dia 20/05.
+
+8. Quais são as regras eliminatórias para os projetos?
+Os projetos devem ser submetidos conforme o regulamento. Regras eliminatórias incluem:
+
+Cada pessoa só poderá ter um projeto selecionado
+O projeto precisa ser entregue pelo GitHub
+O projeto precisa ter conexão com o conteúdo da Imersão
+
+9. Posso entregar o projeto pelo formulário e depois fazer commits de atualização?
+Sim, desde que o projeto continue atendendo aos critérios de avaliação. No entanto, lembre-se que atualizações após a submissão podem impactar negativamente a votação da comunidade.
+
+10. É permitido desenvolver projetos em grupo ou dividir prêmios com outras pessoas?
+Não. Os projetos devem ser desenvolvidos individualmente, e os prêmios não podem ser divididos com outras pessoas, nem revertidos em dinheiro.
+
+11. Se eu ganhar o primeiro lugar posso escolher o curso que quiser na FIAP?
+Você pode escolher os cursos nas modalidades Graduação On ou Pós Tech. Mediante as políticas de ingresso da FIAP
